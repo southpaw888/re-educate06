@@ -1,0 +1,84 @@
+
+@font-face {
+    font-family:'helvetica' ;
+    src: url(fonts/helvetica-bold.ttf);
+}
+body{
+    background-color: #0A22F4;
+}
+h4{
+    margin-left: 240px;
+    width: 162px;
+    height: 38px;
+    color: #fff;
+    font-size: 32px;
+}
+p{
+    width: 463px;
+    height: 99px;
+    color: #fff;
+    margin-left: 240px;
+    text-align: left;
+    letter-spacing: 0px;
+    
+}
+.map{
+     margin-left: 250px;
+     width:463px;
+     height:197px;
+     display: inline-block;
+     
+}
+.img1{
+    width: 70px; ;
+    height: 70px;
+    margin-bottom: 240px;
+    margin-left: 243px;
+    margin-top: 50px;
+}
+.img2{
+    width: 70px; ;
+    height: 70px;
+    margin-bottom: 240px;
+    margin-left: 275px;
+    margin-top: 50px;
+}
+.mob{
+    width: 216px;
+    height: 26px;
+    color: #fff;
+  
+}
+.email{
+    width: 216px;
+    height: 26px;
+    color: #fff;
+}
+.name{
+    background: #0A22F4;
+    width: 463px;
+    height: 60px;
+    color: #fff;
+}
+.mail{
+    background: #0A22F4;
+    width: 463px;
+    height: 60px;
+    color: #fff;
+
+}
+.phone{
+    background: #0A22F4;
+    width: 463px;
+    height: 60px;
+    color: #fff;
+}
+.message{
+    background: #0A22F4;
+    width: 463px;
+    height: 140px;
+    color: #fff;
+}
+.registration{
+    display: inline-block;
+}
